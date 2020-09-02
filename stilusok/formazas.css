@@ -10,7 +10,16 @@ h1 {
 }
 
 h3 {
-    color: rgb(73, 73, 73);
+    color: grey;
+}
+
+h5 {
+    margin: 0px;
+}
+
+td {
+    height: 30px;
+    margin: 0px;
 }
 
 .produkt1 {
@@ -29,15 +38,41 @@ h3 {
     text-align: left;
 }
 
-.kep {
-    width: 200px;
-    height: 160px;
+#kep1 {
+    width: 220px;
+    height: 176px;
     box-shadow: 3px 3px 10px darkgray;
     margin: 10px;
 }
 
-.rajz {
-    width: 200px;
-    height: 160px;
+#plus {
+    width: 220px;
+    height: 176px;
+    margin: 10px;
+}
+
+#kep2 {
+    width: 220px;
+    height: 176px;
+    box-shadow: 3px 3px 10px darkgray;
+    margin: 10px;
+}
+
+#egyenlo {
+    width: 220px;
+    height: 176px;
+    margin: 10px;
+}
+
+.hozzavalo {
+    width: 220px;
+    height: 25px;
+    text-align: center;
+}
+
+#szafiLiszt {
+    width: 300px;
+    height: 600px;
+    box-shadow: 3px 3px 10px darkgray;
     margin: 10px;
 }
